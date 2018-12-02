@@ -1,0 +1,12 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\PNGDecoder.dll
+bin\Release\PNGDecoder.pdb
+obj\Release\PNGDecoder.dll
+obj\Release\PNGDecoder.pdb
+bin\Release\zlib.net.dll
+bin\Debug\PNGDecoder.dll
+bin\Debug\PNGDecoder.pdb
+bin\Debug\zlib.net.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PNGDecoder.dll
+obj\Debug\PNGDecoder.pdb

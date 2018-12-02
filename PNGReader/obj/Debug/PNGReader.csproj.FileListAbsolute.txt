@@ -1,0 +1,12 @@
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\bin\Debug\PNGReader.exe
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\bin\Debug\PNGReader.pdb
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\bin\Debug\PNGDecoder.dll
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\bin\Debug\zlib.net.dll
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\bin\Debug\PNGDecoder.pdb
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Debug\PNGReader.csprojResolveAssemblyReference.cache
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Debug\PNGReader.Form1.resources
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Debug\PNGReader.Properties.Resources.resources
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Debug\PNGReader.csproj.GenerateResource.Cache
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Debug\PNGReader.csproj.CoreCompileInputs.cache
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Debug\PNGReader.exe
+C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Debug\PNGReader.pdb

@@ -1,0 +1,6 @@
+C:\Users\kunio\Desktop\自習\PNGReader\PNGDecoder\bin\Debug\PNGDecoder.dll
+C:\Users\kunio\Desktop\自習\PNGReader\PNGDecoder\bin\Debug\PNGDecoder.pdb
+C:\Users\kunio\Desktop\自習\PNGReader\PNGDecoder\obj\Debug\PNGDecoder.csprojResolveAssemblyReference.cache
+C:\Users\kunio\Desktop\自習\PNGReader\PNGDecoder\obj\Debug\PNGDecoder.csproj.CoreCompileInputs.cache
+C:\Users\kunio\Desktop\自習\PNGReader\PNGDecoder\obj\Debug\PNGDecoder.dll
+C:\Users\kunio\Desktop\自習\PNGReader\PNGDecoder\obj\Debug\PNGDecoder.pdb
