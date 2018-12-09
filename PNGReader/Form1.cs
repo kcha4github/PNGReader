@@ -27,36 +27,42 @@ namespace PNGReader
 
             Bitmap bmp = null;
 
-            // Decoding HERE!
-            PNGDecoder.Decoder decoder = new PNGDecoder.Decoder(path);
-            if (decoder.Decode())
-            {
-                int width = decoder.Width;
-                int height = decoder.Height;
-
-                bmp = new Bitmap(width, height);
-
-                byte[] dataR = decoder.R;
-                byte[] dataG = decoder.G;
-                byte[] dataB = decoder.B;
-                int index = 0;
-
-                for (int h = 0; h < height; h++)
+            try {
+                // Decoding HERE!
+                PNGDecoder.Decoder decoder = new PNGDecoder.Decoder(path);
+                if (decoder.Decode())
                 {
-                    for (int w = 0; w < width; w++)
+                    int width = decoder.Width;
+                    int height = decoder.Height;
+
+                    bmp = new Bitmap(width, height);
+
+                    byte[] dataR = decoder.R;
+                    byte[] dataG = decoder.G;
+                    byte[] dataB = decoder.B;
+                    int index = 0;
+
+                    for (int h = 0; h < height; h++)
                     {
-                        bmp.SetPixel(w, h, Color.FromArgb(dataR[index], dataG[index], dataB[index]));
-                        index++;
+                        for (int w = 0; w < width; w++)
+                        {
+                            bmp.SetPixel(w, h, Color.FromArgb(dataR[index], dataG[index], dataB[index]));
+                            index++;
+                        }
                     }
                 }
-            }
-            else
-            {
-                string errorMessage = decoder.ErrorMessage;
-                MessageBox.Show(errorMessage);
-            }
+                else
+                {
+                    string errorMessage = decoder.ErrorMessage;
+                    MessageBox.Show(errorMessage);
+                }
 
-            this.bmp = bmp;
+                this.bmp = bmp;
+            }
+            catch
+            {
+                return;
+            }
         }
 
         private void contextMenuStrip1_Click(object sender, EventArgs e)

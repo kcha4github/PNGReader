@@ -10,3 +10,15 @@ C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Release\PNGReader.csproj.G
 C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Release\PNGReader.csproj.CoreCompileInputs.cache
 C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Release\PNGReader.exe
 C:\Users\kunio\Desktop\自習\PNGReader\PNGReader\obj\Release\PNGReader.pdb
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\bin\Release\PNGReader.exe
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\bin\Release\PNGReader.pdb
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\bin\Release\PNGDecoder.dll
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\bin\Release\zlib.net.dll
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\bin\Release\PNGDecoder.pdb
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\obj\Release\PNGReader.csprojResolveAssemblyReference.cache
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\obj\Release\PNGReader.Form1.resources
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\obj\Release\PNGReader.Properties.Resources.resources
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\obj\Release\PNGReader.csproj.GenerateResource.Cache
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\obj\Release\PNGReader.csproj.CoreCompileInputs.cache
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\obj\Release\PNGReader.exe
+C:\Users\kunio\Documents\Visual Studio 2017\Projects\PNGReader\PNGReader\obj\Release\PNGReader.pdb
